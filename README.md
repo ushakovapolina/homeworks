@@ -13,4 +13,4 @@
 2. second
 
 
-[HSE] (https://www.hse.ru/)
+[HSE](https://www.hse.ru/)
